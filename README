@@ -1,0 +1,9 @@
+collection of scripts using the amazing work done by these two contributors:
+
+	https://github.com/picklepete/pyicloud
+
+	https://github.com/kennethreitz/requests
+
+-
+
+gps_location.py - prints the address of your device
